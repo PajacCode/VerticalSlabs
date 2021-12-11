@@ -8,7 +8,7 @@ license="All rights reserved"
 
 modId="vertslabs" #mandatory
 
-version="1.16.2-1.0.0" #mandatory
+version="1.16.5-1.0.0" #mandatory
 
 displayName="Vertical Slabs" #mandatory
 
@@ -16,7 +16,7 @@ logoFile="vertslabs_logo.png" #optional
 
 credits="Thanks to the Forge team" #optional
 
-authors="Kriaga" #optional
+authors="Omicron, but the original author is Kriaga" #optional
 # The description text for the mod (multi line!) (#mandatory)
 description='''
 This mod adds vertical slabs! I know you always wanted it, so here it is!
@@ -37,6 +37,6 @@ This mod adds vertical slabs! I know you always wanted it, so here it is!
 [[dependencies.vertslabs]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.16.2]"
+    versionRange="[1.16.5, 1.17)"
     ordering="NONE"
     side="BOTH"
